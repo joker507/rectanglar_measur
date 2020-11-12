@@ -3,6 +3,12 @@
 1. 图片上传 前景物体需要和背景物体有较大的差别，图片 左上角 要有一个2厘米的正方形 必须在最左边
 2. 图片的大小建议在 < 1080
 
+### 加上树莓派运行
+
+在纯白底部载物台画有一个左上角有一个2cm的正方形作为标尺：
+
+
+
 # Measure size of objects in an image using OpenCV 
 
 The project provides a script to read an image and based on the dimensions of a reference object find the dimensions of other objects in a scene. The reference object must be the leftmost object in the scene. In sample images given, a box of dimension 2cm x 2cm is taken as a reference object.
